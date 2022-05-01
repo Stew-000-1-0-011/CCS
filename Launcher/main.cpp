@@ -1,0 +1,2 @@
+#include "../Dxlibrary/DxLib.h"
+
