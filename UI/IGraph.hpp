@@ -1,0 +1,7 @@
+namespace StewEngine
+{
+    struct Graph
+    {
+
+    };
+}
